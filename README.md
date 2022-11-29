@@ -1,8 +1,8 @@
 # SwiftUITestingFramework
 
-##Objective-  This is BDD based UI AutomationFramework use for demo and skills development porpose.
+Objective-  This is BDD based UI AutomationFramework use for demo and skills development porpose.
 
-##Skills
+Skills
 - Dotnet Core, Specflow, Selenium, MSSql, API, Ado dot net
 
 # Driver
