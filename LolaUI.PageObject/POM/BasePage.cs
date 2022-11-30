@@ -47,7 +47,7 @@ namespace LolaUI.PageObject.POM
 
             element.Click();
         }
-        public void SendKeys11(IWebElement element, string text)
+        public void SendText(IWebElement element, string text)
         {
             element.SendKeys(text);
         }
