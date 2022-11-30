@@ -1,4 +1,4 @@
-# SwiftUITestingFramework
+# POCUITestingFramework
 
 Objective-  This is BDD based UI AutomationFramework use for demo and skills development porpose.
 
