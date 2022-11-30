@@ -68,8 +68,7 @@ namespace LolaUI.BDD.Lola.Steps
             [When(@"User enters the username as (.*)")]
             public void WhenUserEntersTheUsernameAsUsername(string p0)
             {
-                resetPage.SendKeys11(resetPage.InputUserName, p0);
-                //resetPage.InputUserName.se(p0);
+                resetPage.SendText(resetPage.InputUserName, p0);
             }
 
             [When(@"User clicks on the reset password button")]
