@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace TestProject1.Lola_Features
+namespace TestProject.Lola_Features
 {
     using TechTalk.SpecFlow;
     using System;

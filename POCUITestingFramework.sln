@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LolaUI.API", "LolaUI.API\Lo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LolaUI.Data", "LolaUI.Data\LolaUI.Data.csproj", "{825E39F6-1535-405B-8F9B-36DAEF6B81EE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject", "TestProject1\TestProject.csproj", "{FAD5A07B-3484-41A9-9AA2-CDC440953BAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject", "TestProject\TestProject.csproj", "{FAD5A07B-3484-41A9-9AA2-CDC440953BAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
