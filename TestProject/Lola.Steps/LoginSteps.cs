@@ -14,6 +14,7 @@ namespace LolaUI.BDD.Lola.Steps
             ResetPage resetPage;
             HomePage homePage;
             ScenarioContext scnearioContext;
+
             public LoginSteps(IWebDriver driver,ScenarioContext scnearioContext)
             {
                 this.scnearioContext = scnearioContext;
