@@ -1,0 +1,12 @@
+﻿<RunSettings>
+<TestRunParameters>
+<Parameter name ="Browser" value="Firefox"/>
+</TestRunParameters>
+
+<NUnit>
+<NumberOfTestWorkers>8</NumberOfTestWorkers>
+</NUnit>
+
+
+
+</RunSettings>

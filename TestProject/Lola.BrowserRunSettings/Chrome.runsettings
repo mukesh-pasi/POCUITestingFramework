@@ -1,0 +1,5 @@
+﻿<RunSettings>
+<TestRunParameters>
+<Parameter name ="Browser" value="Chrome"/>
+</TestRunParameters>
+</RunSettings>
