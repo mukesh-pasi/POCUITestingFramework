@@ -1,0 +1,7 @@
+{
+  "username": "Admin",
+  "password": "admin123",
+  "env": "dev",
+  "cache": false,
+  "baseUrl": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+}
